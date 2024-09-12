@@ -15,7 +15,7 @@
 	
  <h3>**About me 🤝**</h3> 
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
+<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
 
 <br>
 
